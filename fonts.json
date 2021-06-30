@@ -1,0 +1,18 @@
+{
+  "font": {
+    "inter": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Inter"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "Medium"
+        }
+      },
+      "type": "font",
+      "comment": "Medium"
+    }
+  }
+}
